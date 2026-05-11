@@ -1,0 +1,5 @@
+-- database: ./food_waste.db
+SELECT
+    *
+FROM
+    food_waste_data;
